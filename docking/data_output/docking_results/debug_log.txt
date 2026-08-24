@@ -1,0 +1,18 @@
+Grid box: center=(-50.0, 37.0, 75.0), size=(30.0, 22.5, 30.0)
+Processing ligand: Z54747696
+Vina executed for Z54747696
+Written: Z54747696, -5.71
+Processing ligand: Z1567937118
+Vina executed for Z1567937118
+Written: Z1567937118, -5.615
+Processing ligand: Z1297785316
+Vina executed for Z1297785316
+Written: Z1297785316, -5.589
+Processing ligand: Z332818628
+Vina executed for Z332818628
+Written: Z332818628, -5.473
+Processing ligand: Z54748517
+Vina executed for Z54748517
+Written: Z54748517, -5.831
+Total ligands processed: 5
+Completed. Results: /media/disk1/khanh/Automatic_screening_pipeline/docking/data_output/docking_results/docking_scores.csv
